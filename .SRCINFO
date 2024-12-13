@@ -1,0 +1,12 @@
+pkgbase = prime-finder
+    pkgdesc = A cool prime number finder that shows primes in a given range
+    pkgver = 1.0.0
+    pkgrel = 1
+    url = https://github.com/ArmanTahsinAdib/prime-finder
+    arch = any
+    license = MIT
+    depends = python>=3.8
+    source = prime-finder
+    sha256sums = SKIP
+
+pkgname = prime-finder
